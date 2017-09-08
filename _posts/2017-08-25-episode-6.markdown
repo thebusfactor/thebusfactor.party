@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Episode Six"
+date:   2017-08-25 17:00:00 +1200
+categories: podcast
+---
+<iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/ByB7zr00420" frameborder="0" allowFullScreen="yes"></iframe>
+This weeks episode has Hugh, with special guest Peter.
+
+Unfortunately, ss23 away this week.
+<h3>Downloads:</h3>
+<ul>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-08-25-TBF-6.mp3">2017-08-25 The Bus Factor - Episode 6 (Audio Only - MP3)</a></li>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-08-25-TBF-6.mp4">2017-08-25 The Bus Factor - Episode 6 (MP4)</a></li>

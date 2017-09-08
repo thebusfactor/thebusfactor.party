@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Episode Two"
+date:   2017-07-28 17:00:00 +1200
+categories: podcast
+---
+<iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/3ksXBwHjS9A" frameborder="0" allowFullScreen="yes"></iframe>
+This episode we had special guest Fincham, to talk about closed ecosystems and the internet in general.
+
+Other topics included some parts of the pwnies, hardware exploits, etc.
+<h3>Downloads:</h3>
+<ul>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-07-28-TBF-2.mp3">2017-07-28 The Bus Factor - Episode 2 (Audio Only - MP3)</a></li>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-07-28-TBF-2.mp4">2017-07-28 The Bus Factor - Episode 2 (MP4)</a></li>

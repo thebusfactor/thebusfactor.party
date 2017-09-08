@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Episode Four"
+date:   2017-08-11 17:00:00 +1200
+categories: podcast
+---
+<iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/1HXxPmTHTFk" frameborder="0" allowFullScreen="yes"></iframe>
+Topics include:
+* London Bus Jogger
+* Buses in general
+* Coins
+
+Please excuse the technical issues, the office internet was down at times
+<h3>Downloads:</h3>
+<ul>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-08-11-TBF-4.mp3">2017-08-11 The Bus Factor - Episode 4 (Audio Only - MP3)</a></li>
+<li><a href="https://downloads.thebusfactor.party/2017/2017-08-11-TBF-4.mp4">2017-08-11 The Bus Factor - Episode 4 (MP4)</a></li>
