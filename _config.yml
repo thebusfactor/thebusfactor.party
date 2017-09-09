@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: The Bus Factor!
 email: contact@thebusfactor.party
-description: > # this means to ignore newlines until "baseurl:"
-  Your favorite bus and infosec related podcast.
+description: Your favorite bus and infosec related podcast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thebusfactor.party" # the base hostname & protocol for your site, e.g. http://example.com
+organizationName: The Bus Factor
+podcastdescription: Your favorite bus and infosec related podcast. We talk about buses, information security, and technology. New episodes are recorded on Friday (NZT) and uploaded the following Monday.
 twitter_username: thebusfactor
 github_username:  thebusfactor
 

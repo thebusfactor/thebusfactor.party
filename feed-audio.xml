@@ -1,0 +1,40 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xml:base="https://thebusfactor.party/feed-audio.xml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>{{ site.title }}</title>
+	<description>{{ site.description }}</description>
+	<link>{{ site.url }}</link>
+	<language>en</language>
+	<atom:link href="{{ site.url }}/feed-audio.xml" rel="self" type="application/rss+xml" />
+	<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+	<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+	<itunes:image href="{{ site.url }}/images/logo.jpg" />
+	<itunes:author>{{ site.organizationName }}</itunes:author>
+	<itunes:summary>{{ site.podcastdescription }}</itunes:summary>
+	<itunes:owner>
+		<itunes:name>{{ site.organizationName }}</itunes:name>
+		<itunes:email>contact@thebusfactor.party</itunes:email>
+	</itunes:owner>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:explicit>yes</itunes:explicit>
+	{% for post in site.posts %}
+	<item>
+		<title>{{ post.title }}</title>
+		<link>{{ site.url }}{{ post.url }}</link>
+		<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+		<description><![CDATA[
+			{{ post.content }}
+		]]></description>
+		<guid isPermaLink="true">{{ post.link }}</guid>
+		<enclosure url="{{ post.audiodl }}" length="{{ post.length }}" type="audio/mp3"/>
+		<itunes:summary>{{ post.description }}</itunes:summary>
+		<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/images/logo.jpg{% endif %}" />
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+	{% endfor %}
+</channel>
+</rss>
