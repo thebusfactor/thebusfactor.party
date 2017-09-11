@@ -5,7 +5,8 @@ date:       2017-07-21 17:00:00 +1200
 youtubeid:  "vmsfs2fuEKM"
 audiodl:    "https://downloads.thebusfactor.party/2017/2017-07-21-TBF-1.mp3"
 videodl:    "https://downloads.thebusfactor.party/2017/2017-07-21-TBF-1.mp4"
-length:     0
+audiosize:  103045533
+videosize:  206273660
 categories: podcast
 ---
 Due to technical difficulties, there is no video with the content.
@@ -13,6 +14,6 @@ In addition, there is a point where the audio cuts out and begins again (approxi
 
 Topics:
 * Alphabay/Hansa
-* Busses
+* Buses
 * Bitcoin
 * Pentesting

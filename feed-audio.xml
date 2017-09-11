@@ -30,7 +30,7 @@
 			{{ post.content }}
 		]]></description>
 		<guid isPermaLink="true">{{ post.link }}</guid>
-		<enclosure url="{{ post.audiodl }}" length="{{ post.length }}" type="audio/mp3"/>
+		<enclosure url="{{ post.audiodl }}" length="{{ post.audiosize }}" type="audio/mp3"/>
 		<itunes:summary>{{ post.description }}</itunes:summary>
 		<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/images/logo.jpg{% endif %}" />
 		<itunes:explicit>yes</itunes:explicit>

@@ -1,0 +1,13 @@
+---
+layout:     podcast
+title:      "Episode 8"
+date:       2017-09-08 17:00:00 +1200
+youtubeid:  "jKKpqRU3jKw"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-09-08-TBF-8.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-09-08-TBF-8.mp4"
+audiosize:  70080724
+videosize:  915421944
+categories: podcast
+---
+We talk about the Equihax debarcle, the city council photographing ducks, and other information security topics of the week!
+Both Hugh and ss23 are back for this weeks episode.
