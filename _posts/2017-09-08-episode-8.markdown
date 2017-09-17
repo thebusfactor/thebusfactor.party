@@ -1,6 +1,6 @@
 ---
 layout:     podcast
-title:      "Episode 8"
+title:      "Episode Eight"
 date:       2017-09-08 17:00:00 +1200
 youtubeid:  "jKKpqRU3jKw"
 audiodl:    "https://downloads.thebusfactor.party/2017/2017-09-08-TBF-8.mp3"
