@@ -19,6 +19,25 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Bus not found :(</strong></p>
+  <p>The requested bus could not be found.</p>
+
+  <img id="bus" onclick="cycleBuses()" />
+
+    <script>
+      var buses =  [
+        "http://www.countrybus.org/Bristol/BN61f404.jpg",
+        "https://pbs.twimg.com/media/BlgwbiAIYAAEB8Y.jpg", // @robmanuel
+        "https://images-cdn.9gag.com/photo/a5Nb08G_700b.jpg",
+        "http://i.imgur.com/ZykpcwT.jpg",
+        "https://pics.me.me/emergency-door-stop-nh-ashingred-404-bus-not-found-21764643.png",
+        "https://images-cdn.9gag.com/photo/aebLRLQ_700b.jpg",
+        "http://i.imgur.com/t7liiBa.jpg"
+      ];
+    function cycleBuses() {
+      var busid = Math.floor(Math.random() * buses.length);
+      document.getElementById("bus").src = buses[busid];
+    }
+    cycleBuses();
+    </script>
 </div>
