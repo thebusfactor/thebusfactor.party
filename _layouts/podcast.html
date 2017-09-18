@@ -1,6 +1,22 @@
 ---
 layout: post
 ---
+<div class="center">
+{% if page.previous %}
+<span class="float-left">
+<a href="{{ page.previous.url }}">{{ page.previous.title}}</a>
+</span>
+{% endif %}
+{% if page.next %}
+<span class="float-right">
+<a href="{{ page.next.url }}">{{ page.next.title}}</a>
+</span>
+{% endif %}
+<span>
+{{ page.title }}
+</span>
+</div>
+<br>
 
 <iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/{{ page.youtubeid }}" frameborder="0" allowFullScreen="yes"></iframe>
 {{ content }}
