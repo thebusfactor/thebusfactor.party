@@ -1,10 +1,14 @@
 ---
-layout: post
-title:  "Episode Five"
-date:   2017-08-18 17:00:00 +1200
+layout:     podcast
+title:      "Episode Five"
+date:       2017-08-18 17:00:00 +1200
+youtubeid:  "UwWoW1THGgk"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-08-18-TBF-5.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-08-18-TBF-5.mp4"
+audiosize:  71473389
+videosize:  931614784
 categories: podcast
 ---
-<iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/UwWoW1THGgk" frameborder="0" allowFullScreen="yes"></iframe>
 On this weeks episode we discuss:
 * Buses
 * Gender diversity in technology
@@ -13,7 +17,3 @@ On this weeks episode we discuss:
 And others!
 
 Join us at our website when we get it running at https://thebusfactor.party
-<h3>Downloads:</h3>
-<ul>
-<li><a href="https://downloads.thebusfactor.party/2017/2017-08-18-TBF-5.mp3">2017-08-18 The Bus Factor - Episode 5 (Audio Only - MP3)</a></li>
-<li><a href="https://downloads.thebusfactor.party/2017/2017-08-18-TBF-5.mp4">2017-08-18 The Bus Factor - Episode 5 (MP4)</a></li>
