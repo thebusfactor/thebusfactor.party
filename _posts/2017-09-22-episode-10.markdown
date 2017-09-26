@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ten"
+date:       2017-09-22 17:00:00 +1200
+youtubeid:  "ABEII7lFBHY"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-09-22-TBF-10.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-09-22-TBF-10.mp4"
+audiosize:  61074632
+videosize:  796363679
+categories: podcast
+---
+ss23 is away at platypus camp, so we have special guest Ian and Hugh, talking about the SEC hack on the EDGAR network, aIR jumper, ccleaner, bug bounties and more.
