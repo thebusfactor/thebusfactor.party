@@ -5,7 +5,7 @@
 layout: default
 ---
 <h1>Live Stream</h1>
-<p>Find us at <a href="https://twitch.tv/thebusfactor">https://twitch.tv/thebusfactor</a>. We normally stream around 1700 NZT / 1500 AEST on Friday's.</p>
+<p>Find us at <a href="https://twitch.tv/thebusfactor">https://twitch.tv/thebusfactor</a>. We normally stream around 1700 NZT / 1400 AEST on Friday's.</p>
 
 <!-- <iframe src="http://player.twitch.tv/?thebusfactor" height="200" width="200" scrolling="no" allowfullscreen="true"></iframe>. This is ugly so lets find a better way to embed it -->
 
