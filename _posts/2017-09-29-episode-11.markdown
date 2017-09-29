@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eleven"
+date:       2017-09-29 17:00:00 +1300
+youtubeid:  "9sCv1ELqv7A"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-09-29-TBF-11.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-09-29-TBF-11.mp4"
+audiosize:  65585480
+videosize:  855138171
+categories: podcast
+---
+Listen to us talk about the latest infosec and bus news, this week talking about beards, old ladies and electric cars.
