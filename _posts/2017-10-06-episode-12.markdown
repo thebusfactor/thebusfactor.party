@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twelve"
+date:       2017-10-06 17:00:00 +1300
+youtubeid:  "1JzC8Ugud9Q"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-10-06-TBF-12.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-10-06-TBF-12.mp4"
+audiosize:  64059988
+videosize:  835205613
+categories: podcast
+---
+With Hugh away, we have Stephen and Dave at the helm.
