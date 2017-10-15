@@ -15,5 +15,3 @@ On this weeks episode we discuss:
 * Password managers
 * That cool SSD attack
 And others!
-
-Join us at our website when we get it running at https://thebusfactor.party
