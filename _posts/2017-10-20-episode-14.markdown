@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fourteen"
+date:       2017-10-20 17:00:00 +1200
+youtubeid:  "grQtNbLvVWM"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-10-20-TBF-14.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-10-20-TBF-14.mp4"
+audiosize:  62515821
+videosize:  814962429
+categories: podcast
+---
+Come watch the bus factor. This week with more KRACK
