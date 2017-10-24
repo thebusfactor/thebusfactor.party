@@ -41,21 +41,22 @@ if [ "$(date +'%Y' -d "${YEAR}")" != "${YEAR}" || "$(date +'%Y-%m-%d' -d "${DATE
 	exit
 fi
 
-EPNUMBER=$(ls -1 downloads.thebusfactor.party/*/*-TBF-*.mp4 | tail -1 | rev | cut -d '-' -f 1 | rev | cut -d '.' -f 1)
+S3LOC=$(basename ${0})/../downloads.thebusfactor.party/
+EPNUMBER=$(ls -1 $S3LOC/*/*-TBF-*.mp4 | tail -1 | rev | cut -d '-' -f 1 | rev | cut -d '.' -f 1)
 let EPNUMBER++
 # Detect silence somehow, hard code for now. If you want to cut the end as well, do soemthing like the following (not tested, but should do it)
 # SILENCE="00:11 -t 1:00:00"
 SILENCE=00:11
 SOURCE=${FILENAME}
-DEST=$(dirname ${0})/downloads.thebusfactor.party/${YEAR}/${DATE}-TBF-${EPNUMBER}
+DEST=$S3LOC/${YEAR}/${DATE}-TBF-${EPNUMBER}
 ${FFMPEG} -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
 VIDEOSIZE=$(du -b ${DEST}.mp4 | cut -f 1)
 ${FFMPEG} -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
 AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
-aws s3 sync $(dirname ${0})/downloads.thebusfactor.party s3://downloads.thebusfactor.party/ --acl public-read
+aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 DESCRIPTION="${2}"
 YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER}" --tags "bus,infosec,technology" --description "${DESCRIPTION}\n\nFind us on https://thebusfactor.party, and consider joining our patreon at https://patreon.com/thebusfactor" ${DEST}.mp4)
-cd $(dirname ${0})/thebusfactor.party
+cd $(dirname ${0})
 POSTFILE=_posts/${DATE}-episode-${EPNUMBER}.markdown
 cp _templates/podcast.markdown $POSTFILE
 sed -i -e "s/__DATE_YYYY-MM-DD__/${DATE}/g" $POSTFILE
