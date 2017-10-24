@@ -55,7 +55,7 @@ ${FFMPEG} -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
 AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
 aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 DESCRIPTION="${2}"
-YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER}" --tags "bus,infosec,technology" --description "${DESCRIPTION}\n\nFind us on https://thebusfactor.party, and consider joining our patreon at https://patreon.com/thebusfactor" ${DEST}.mp4)
+YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER} (${DATE})" --tags "bus,infosec,technology" --description "${DESCRIPTION}\n\nFind us on https://thebusfactor.party, and consider joining our patreon at https://patreon.com/thebusfactor" ${DEST}.mp4)
 cd $(dirname ${0})
 POSTFILE=_posts/${DATE}-episode-${EPNUMBER}.markdown
 cp _templates/podcast.markdown $POSTFILE
