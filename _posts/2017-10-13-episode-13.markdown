@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirteen"
+date:       2017-10-13 17:00:00 +1200
+youtubeid:  "79foxdgAcRc"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-10-13-TBF-13.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-10-13-TBF-13.mp4"
+audiosize:  63767661
+videosize:  831277520
+categories: podcast
+---
+Come watch the bus factor, back with both Hugh and Stephen
