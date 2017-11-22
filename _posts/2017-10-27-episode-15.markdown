@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifteen"
+date:       2017-10-27 17:00:00 +1200
+youtubeid:  "PJ2gIBdl0Ww"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-10-27-TBF-15.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-10-27-TBF-15.mp4"
+audiosize:  62757357
+videosize:  818059557
+categories: podcast
+---
+Special show onsite at ChCon 2017
