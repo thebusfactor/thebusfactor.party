@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventeen"
+date:       2017-11-10 17:00:00 +1200
+youtubeid:  "W8jljYTwqaY"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-11-10-TBF-17.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-11-10-TBF-17.mp4"
+audiosize:  62850669
+videosize:  819100271
+categories: podcast
+---
+We cover the local bus accident, see some golden geese, and talk about voicemail hacks on 2degrees

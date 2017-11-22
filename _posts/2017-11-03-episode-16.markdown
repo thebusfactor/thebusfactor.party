@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixteen"
+date:       2017-11-03 17:00:00 +1200
+youtubeid:  "nuVFDfuEyTA"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-11-03-TBF-16.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-11-03-TBF-16.mp4"
+audiosize:  58358253
+videosize:  760503040
+categories: podcast
+---
+Back in the usual location
