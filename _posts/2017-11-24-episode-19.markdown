@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Nineteen"
+date:       2017-11-24 17:00:00 +1200
+youtubeid:  "6qnzmrChEC8"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-11-24-TBF-19.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-11-24-TBF-19.mp4"
+audiosize:  72492909
+videosize:  945205637
+categories: podcast
+---
+Live on scene at Bsides Wellington, on a boat. THE BOAT FACTOR. Special guest of liamosaur in a funny hat

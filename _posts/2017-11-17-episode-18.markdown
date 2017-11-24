@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighteen"
+date:       2017-11-17 17:00:00 +1200
+youtubeid:  "V2IqbW0W3-c"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-11-17-TBF-18.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-11-17-TBF-18.mp4"
+audiosize:  60195693
+videosize:  784852968
+categories: podcast
+---
+Another week in the office
