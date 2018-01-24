@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty"
+date:       2017-12-01 17:00:00 +1300
+youtubeid:  "oDSly9yzv5E"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-12-01-TBF-20.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-12-01-TBF-20.mp4"
+audiosize:  58396
+videosize:  760964
+categories: podcast
+---
+Come listen to another exciting episode of The Bus Factor, uploaded so long after we recorded it, we've forgotten what we talked about during it!
