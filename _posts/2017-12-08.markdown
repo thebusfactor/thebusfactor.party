@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty One"
+date:       2017-12-08 17:00:00 +1300
+youtubeid:  "xniy4m8m1X0"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-12-08-TBF-21.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-12-08-TBF-21.mp4"
+audiosize:  55692
+videosize:  725848
+categories: podcast
+---
+The 21st episode! Now with buses and information security!
