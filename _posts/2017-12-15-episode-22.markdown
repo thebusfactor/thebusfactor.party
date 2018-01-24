@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty Two"
+date:       2017-12-15 17:00:00 +1300
+youtubeid:  "KQWfrN8tNxg"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-12-15-TBF-22.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-12-15-TBF-22.mp4"
+audiosize:  22612
+videosize:  557676
+categories: podcast
+---
+In this episode, it's just Hugh, as ss23 was away on holiday. It's a shorter episode, because Hugh couldn't figure out how to make the audio work for the first 15 minutes!
