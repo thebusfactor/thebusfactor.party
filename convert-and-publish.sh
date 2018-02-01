@@ -61,9 +61,10 @@ ${FFMPEG} -loglevel 24 -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
 VIDEOSIZE=$(du -b ${DEST}.mp4 | cut -f 1)
 ${FFMPEG} -loglevel 24 -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
 AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
-aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 DESCRIPTION="${2}"
 YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER} (${DATE})" --tags "bus,infosec,technology" --description "${DESCRIPTION}\n\nFind us on https://thebusfactor.party, and consider joining our patreon at https://patreon.com/thebusfactor" ${DEST}.mp4)
+# Sync after youtube upload, just to give youtube a chance to generate a thumbnail, which is used by patreon
+aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 cd $(dirname ${0})
 POSTFILE=_posts/${DATE}-episode-${EPNUMBER}.markdown
 cp _templates/podcast.markdown $POSTFILE
