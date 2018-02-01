@@ -26,7 +26,7 @@ if ! ${PYTHON} -c 'import inflect' >/dev/null 2>/dev/null; then
 	exit
 fi
 
-if [ -z ${1} -o -z ${2} ]; then
+if [ -z "${1}" -o -z "${2}" ]; then
 	echo "Usage: $0 filename description [silence, default: 00:00]"
 	echo "Example:"
 	echo "$0 \"2017-10-13 17-00-06.mkv\" \"Description goes here, patreon shit gets appended automatically\""
@@ -36,12 +36,12 @@ fi
 FILENAME=${1}
 YEAR=$(basename ${FILENAME} | cut -c1-4)
 DATE=$(basename ${FILENAME} | cut -c1-10)
-if [ "$(date +'%Y' -d "${YEAR}")" != "${YEAR}" || "$(date +'%Y-%m-%d' -d "${DATE}")" != "${DATE}" ]; then
+if [ "$(date +'%Y' -d "${YEAR}")" != "${YEAR}" -o "$(date +'%Y-%m-%d' -d "${DATE}")" != "${DATE}" ]; then
 	echo "Invalid filename, should have the date at the start, like 2017-10-03"
 	exit
 fi
 
-S3LOC=$(basename ${0})/../downloads.thebusfactor.party/
+S3LOC=$(dirname ${0})/../downloads.thebusfactor.party/
 aws s3 sync s3://downloads.thebusfactor.party/ ${S3LOC}
 EPNUMBER=$(ls -1 $S3LOC/*/*-TBF-*.mp4 | tail -1 | rev | cut -d '-' -f 1 | rev | cut -d '.' -f 1)
 let EPNUMBER++
