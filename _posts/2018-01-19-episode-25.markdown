@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Five"
+date:       2018-01-19 17:00:00 +1300
+youtubeid:  "CO5zb3pCAG4"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-01-19-TBF-25.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-01-19-TBF-25.mp4"
+audiosize:  54391917
+videosize:  709070600
+categories: podcast
+---
+Come check out more busses

@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Six"
+date:       2018-01-26 17:00:00 +1300
+youtubeid:  "LQWpOjDX0WE"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-01-26-TBF-26.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-01-26-TBF-26.mp4"
+audiosize:  63472749
+videosize:  827170489
+categories: podcast
+---
+Join us for more infosec news
