@@ -50,9 +50,10 @@ let EPNUMBER++
 SILENCE=${3:-00:00}
 SOURCE=${FILENAME}
 DEST=$S3LOC/${YEAR}/${DATE}-TBF-${EPNUMBER}
-${FFMPEG} -loglevel 8 -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
+mkdir -p $(dirname ${DEST})
+${FFMPEG} -loglevel 24 -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
 VIDEOSIZE=$(du -b ${DEST}.mp4 | cut -f 1)
-${FFMPEG} -loglevel 8 -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
+${FFMPEG} -loglevel 24 -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
 AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
 aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 DESCRIPTION="${2}"
