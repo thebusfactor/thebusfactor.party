@@ -26,8 +26,8 @@ if ! ${PYTHON} -c 'import inflect' >/dev/null 2>/dev/null; then
 	exit
 fi
 
-if [ -z ${1} ] || [ -z ${2} ]; then
-	echo "Usage: $0 filename description"
+if [ -z ${1} -o -z ${2} ]; then
+	echo "Usage: $0 filename description [silence, default: 00:00]"
 	echo "Example:"
 	echo "$0 \"2017-10-13 17-00-06.mkv\" \"Description goes here, patreon shit gets appended automatically\""
 	exit
@@ -42,16 +42,17 @@ if [ "$(date +'%Y' -d "${YEAR}")" != "${YEAR}" || "$(date +'%Y-%m-%d' -d "${DATE
 fi
 
 S3LOC=$(basename ${0})/../downloads.thebusfactor.party/
+aws s3 sync s3://downloads.thebusfactor.party/ ${S3LOC}
 EPNUMBER=$(ls -1 $S3LOC/*/*-TBF-*.mp4 | tail -1 | rev | cut -d '-' -f 1 | rev | cut -d '.' -f 1)
 let EPNUMBER++
 # Detect silence somehow, hard code for now. If you want to cut the end as well, do soemthing like the following (not tested, but should do it)
 # SILENCE="00:11 -t 1:00:00"
-SILENCE=00:11
+SILENCE=${3:-00:00}
 SOURCE=${FILENAME}
 DEST=$S3LOC/${YEAR}/${DATE}-TBF-${EPNUMBER}
-${FFMPEG} -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
+${FFMPEG} -loglevel 8 -i "${SOURCE}" -ss ${SILENCE} -c copy ${DEST}.mp4
 VIDEOSIZE=$(du -b ${DEST}.mp4 | cut -f 1)
-${FFMPEG} -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
+${FFMPEG} -loglevel 8 -i "${SOURCE}" -ss ${SILENCE} -vn ${DEST}.mp3
 AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
 aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 DESCRIPTION="${2}"
