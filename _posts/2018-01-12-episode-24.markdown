@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Four"
+date:       2018-01-12 17:00:00 +1300
+youtubeid:  "hBAjtcqefM8"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-01-12-TBF-24.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-01-12-TBF-24.mp4"
+audiosize:  66514413
+videosize:  867232349
+categories: podcast
+---
+Starting the new year off with ss23 and hugh
