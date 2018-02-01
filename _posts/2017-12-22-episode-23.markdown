@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Three"
+date:       2017-12-22 17:00:00 +1300
+youtubeid:  "RU0sjclizaI"
+audiodl:    "https://downloads.thebusfactor.party/2017/2017-12-22-TBF-23.mp3"
+videodl:    "https://downloads.thebusfactor.party/2017/2017-12-22-TBF-23.mp4"
+audiosize:  58972269
+videosize:  768725973
+categories: podcast
+---
+This week we have hugh and karit for the last show of 2017
