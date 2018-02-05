@@ -14,6 +14,12 @@ if [ -z ${YOUTUBE} ]; then
 	exit
 fi
 
+if [ ! -e ~/.youtube-upload-credentials.json ]; then
+	echo "Looks like you haven't authenticated for youtube-upload"
+	echo "Run youtube-upload --title 'blah', and follow the steps"
+	exit
+fi
+
 PYTHON=$(which python 2>/dev/null)
 if [ -z ${PYTHON} ]; then
 	echo "Couln't find python, install it"
@@ -23,6 +29,18 @@ fi
 if ! ${PYTHON} -c 'import inflect' >/dev/null 2>/dev/null; then
 	echo "Couldn't find python inflect library, install it with pip"
 	echo "pip install --user inflect"
+	exit
+fi
+
+AWS=$(which aws 2>/dev/null)
+if [ -z ${AWS} ]; then
+	echo "Coulnd't find aws cli, install it"
+	exit
+fi
+
+if [ ! -e ~/.aws/credentials ]; then
+	echo "aws cli isn't configured"
+	echo "Run 'aws configure'"
 	exit
 fi
 
@@ -48,7 +66,7 @@ if [ "$(date +'%Y' -d "${YEAR}")" != "${YEAR}" -o "$(date +'%Y-%m-%d' -d "${DATE
 fi
 
 S3LOC=$(dirname ${0})/../downloads.thebusfactor.party/
-aws s3 sync s3://downloads.thebusfactor.party/ ${S3LOC}
+${AWS} s3 sync s3://downloads.thebusfactor.party/ ${S3LOC}
 EPNUMBER=$(ls -1 $S3LOC/*/*-TBF-*.mp4 | tail -1 | rev | cut -d '-' -f 1 | rev | cut -d '.' -f 1)
 let EPNUMBER++
 # Detect silence somehow, hard code for now. If you want to cut the end as well, do soemthing like the following (not tested, but should do it)
@@ -64,7 +82,7 @@ AUDIOSIZE=$(du -b ${DEST}.mp3 | cut -f 1)
 DESCRIPTION="${2}"
 YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER} (${DATE})" --tags "bus,infosec,technology" --description "${DESCRIPTION}\n\nFind us on https://thebusfactor.party, and consider joining our patreon at https://patreon.com/thebusfactor" ${DEST}.mp4)
 # Sync after youtube upload, just to give youtube a chance to generate a thumbnail, which is used by patreon
-aws s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
+${AWS} s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 cd $(dirname ${0})
 POSTFILE=_posts/${DATE}-episode-${EPNUMBER}.markdown
 cp _templates/podcast.markdown $POSTFILE
