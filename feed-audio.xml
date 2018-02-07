@@ -26,6 +26,9 @@
 		<title>{{ post.title }}</title>
 		<link>{{ site.url }}{{ post.url }}</link>
 		<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+		<itunes:subtitle><![CDATA[
+			{{ post.content }}
+		]]></itunes:subtitle>
 		<itunes:summary><![CDATA[
 			{{ post.content }}
   		]]></itunes:summary>
