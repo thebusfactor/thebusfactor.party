@@ -27,10 +27,10 @@
 		<link>{{ site.url }}{{ post.url }}</link>
 		<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
 		<itunes:subtitle><![CDATA[
-			{{ post.content }}
+			{{ post.content | strip_html | truncatewords:20 }}
 		]]></itunes:subtitle>
 		<itunes:summary><![CDATA[
-			{{ post.content }}
+			{{ post.content | strip_html }}
   		]]></itunes:summary>
 		<description><![CDATA[
 			{{ post.content }}
