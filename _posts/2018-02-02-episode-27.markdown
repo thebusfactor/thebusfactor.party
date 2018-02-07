@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Seven"
+date:       2018-02-02 17:00:00 +1300
+youtubeid:  "73e4KCKdnxM"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-02-02-TBF-27.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-02-02-TBF-27.mp4"
+audiosize:  50495469
+videosize:  281842550
+categories: podcast
+---
+Slow news week
