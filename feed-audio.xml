@@ -31,9 +31,11 @@
 		]]></itunes:subtitle>
 		<itunes:summary><![CDATA[
 			{{ post.content | strip_html }}
+			Consider joining our patreon at https://patreon.com/thebusfactor
   		]]></itunes:summary>
 		<description><![CDATA[
 			{{ post.content }}
+			Consider joining our patreon at https://patreon.com/thebusfactor
 		]]></description>
 		<guid isPermaLink="true">{{ post.link }}</guid>
 		<enclosure url="{{ post.audiodl }}" length="{{ post.audiosize }}" type="audio/mp3"/>
