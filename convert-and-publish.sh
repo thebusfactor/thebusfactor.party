@@ -90,6 +90,7 @@ YOUTUBEID=$(${YOUTUBE} --title="The Bus Factor! Episode ${EPNUMBER} (${DATE})" -
 # Sync after youtube upload, just to give youtube a chance to generate a thumbnail, which is used by patreon
 ${AWS} s3 sync ${S3LOC} s3://downloads.thebusfactor.party/ --acl public-read
 cd $(dirname ${0})
+git pull
 POSTFILE=_posts/${DATE}-episode-${EPNUMBER}.markdown
 cp _templates/podcast.markdown $POSTFILE
 sed -i -e "s/__DATE_YYYY-MM-DD__/${DATE}/g" $POSTFILE
@@ -108,6 +109,9 @@ cd -
 
 source $(dirname ${0})/patreon-cookie.sh
 
+date
+echo "sleeping for 15 min"
+sleep 15m
 CSRFJSON=$(curl 'https://www.patreon.com/REST/auth/CSRFTicket' -H 'cookie: '"${COOKIE}" --compressed)
 CSRF=$(echo "${CSRFJSON}" | ${JQ} .token | tr -d '"')
 
