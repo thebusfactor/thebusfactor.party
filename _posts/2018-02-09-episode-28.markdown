@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Eight"
+date:       2018-02-09 17:00:00 +1300
+youtubeid:  "B1ZivYosQtE"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-02-09-TBF-28.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-02-09-TBF-28.mp4"
+audiosize:  61830765
+videosize:  323076353
+categories: podcast
+---
+Finally some news we can talk about. We talk about Wordpress, Azimuth, Apple, Chrome, and creds^Wkrebs
