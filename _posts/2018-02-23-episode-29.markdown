@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Twenty-Nine"
+date:       2018-02-23 17:00:00 +1300
+youtubeid:  "JdOuMpaKUDg"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-02-23-TBF-29.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-02-23-TBF-29.mp4"
+audiosize:  61357293
+videosize:  320549959
+categories: podcast
+---
+Kiwicon announced, a thousand 0-days, and more
