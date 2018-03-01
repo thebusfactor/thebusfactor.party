@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty"
+date:       2018-03-01 17:00:00 +1300
+youtubeid:  "vDbDVKYS45Y"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-03-01-TBF-30.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-03-01-TBF-30.mp4"
+audiosize:  63785325
+videosize:  333334427
+categories: podcast
+---
+Large bus count, got some security news hidden in there as well
