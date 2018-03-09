@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-One"
+date:       2018-03-09 17:00:00 +1300
+youtubeid:  "lWpXitM-blQ"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-03-09-TBF-31.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-03-09-TBF-31.mp4"
+audiosize:  53032941
+videosize:  277163484
+categories: podcast
+---
+COPS SPEAR-TACKLE SOME CICSO PCP'D UP GUY
