@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Two"
+date:       2018-03-16 17:00:00 +1300
+youtubeid:  "Ksln5m0QB8s"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-03-16-TBF-32.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-03-16-TBF-32.mp4"
+audiosize:  59546733
+videosize:  311197250
+categories: podcast
+---
+Insider Trading, AMD worth 0.00 dollars, lets encrypt finally deliver, a bunch of AD stuff
