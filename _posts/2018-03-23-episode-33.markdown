@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Three"
+date:       2018-03-23 17:00:00 +1300
+youtubeid:  "jmsA8W6h1M0"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-03-23-TBF-33.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-03-23-TBF-33.mp4"
+audiosize:  62152173
+videosize:  324783455
+categories: podcast
+---
+Drupalgeddon 2.0 (teaser), The CISO-pocolypse. Come listen and see why we are the best infosec and bus related podcast
