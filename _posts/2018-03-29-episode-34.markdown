@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Four"
+date:       2018-03-29 17:00:00 +1300
+youtubeid:  "aSZIfgxfEGs"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-03-29-TBF-34.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-03-29-TBF-34.mp4"
+audiosize:  64602477
+videosize:  337463768
+categories: podcast
+---
+Drupocalpse, golang malware, bus CCTV cameras off by default... Come listen and see why we are the best infosec and bus related podcast
