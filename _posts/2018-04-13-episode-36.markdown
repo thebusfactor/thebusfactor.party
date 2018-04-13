@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Six"
+date:       2018-04-13 17:00:00 +1300
+youtubeid:  "AZlbZ2tqO7g"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-04-13-TBF-36.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-04-13-TBF-36.mp4"
+audiosize:  58805997
+videosize:  307243033
+categories: podcast
+---
+Drupal POC released, guest star of Peter while Stephen is at Bsides Canberra
