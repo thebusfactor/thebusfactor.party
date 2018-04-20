@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Seven"
+date:       2018-04-20 17:00:00 +1300
+youtubeid:  "PN_qHgw370w"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-04-20-TBF-37.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-04-20-TBF-37.mp4"
+audiosize:  60956781
+videosize:  318448937
+categories: podcast
+---
+Direct object references, good or bad? Vote for us at the podcast awards... next year
