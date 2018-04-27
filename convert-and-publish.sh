@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x
+set -e
 FFMPEG=$(which ffmpeg 2>/dev/null)
 if [ -z ${FFMPEG} ]; then
 	FFMPEG=$(which avconv 2>/dev/null)
@@ -109,9 +111,19 @@ cd -
 
 source $(dirname ${0})/patreon-cookie.sh
 
+echo "sleeping for an hour in 10 min chunks"
 date
-echo "sleeping for 15 min"
-sleep 15m
+sleep 10
+date
+sleep 10
+date
+sleep 10
+date
+sleep 10
+date
+sleep 10
+date
+sleep 10
 CSRFJSON=$(curl 'https://www.patreon.com/REST/auth/CSRFTicket' -H 'cookie: '"${COOKIE}" --compressed)
 CSRF=$(echo "${CSRFJSON}" | ${JQ} .token | tr -d '"')
 
