@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Eight"
+date:       2018-04-27 17:00:00 +1300
+youtubeid:  "5lJwa4rOLhI"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-04-27-TBF-38.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-04-27-TBF-38.mp4"
+audiosize:  56463981
+videosize:  295097617
+categories: podcast
+---
+Drupalgeddon 3, enough said
