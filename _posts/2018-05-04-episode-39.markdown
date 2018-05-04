@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Thirty-Nine"
+date:       2018-05-04 17:00:00 +1300
+youtubeid:  "b0rO8GzyBWw"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-05-04-TBF-39.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-05-04-TBF-39.mp4"
+audiosize:  59304429
+videosize:  772851674
+categories: podcast
+---
+Twits and gits do the right thing, cyclist does wheelie, duck gets stuck
