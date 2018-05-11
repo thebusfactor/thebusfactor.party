@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty"
+date:       2018-05-11 17:00:00 +1300
+youtubeid:  "RvI2OaGn7gw"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-05-11-TBF-40.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-05-11-TBF-40.mp4"
+audiosize:  61353453
+videosize:  1518808690
+categories: podcast
+---
+The bush factor, no typo
