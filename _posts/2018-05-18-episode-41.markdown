@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-One"
+date:       2018-05-18 17:00:00 +1300
+youtubeid:  "7tr6xzrBmas"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-05-18-TBF-41.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-05-18-TBF-41.mp4"
+audiosize:  64961517
+videosize:  1354375739
+categories: podcast
+---
+What has got 6 legs and likes looking at buses. Come join for guest star @whileydave
