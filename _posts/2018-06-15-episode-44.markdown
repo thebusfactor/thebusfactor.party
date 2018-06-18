@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Four"
+date:       2018-06-15 17:00:00 +1300
+youtubeid:  "2UxgBbaIyxM"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-06-15-TBF-44.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-06-15-TBF-44.mp4"
+audiosize:  66995565
+videosize:  768481925
+categories: podcast
+---
+The amazing Michael joins us to discuss conspiracy theories, information security, computers, and buses.
