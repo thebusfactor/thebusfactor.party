@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Three"
+date:       2018-06-08 17:00:00 +1300
+youtubeid:  "Xe7sJzZFGlU"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-06-08-TBF-43.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-06-08-TBF-43.mp4"
+audiosize:  48543597
+videosize:  556696250
+categories: podcast
+---
+Dave (karit) joins us to discuss the weeks news and bus information
