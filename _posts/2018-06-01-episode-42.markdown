@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Two"
+date:       2018-06-01 17:00:00 +1300
+youtubeid:  "voTwTvhBauk"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-06-01-TBF-42.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-06-01-TBF-42.mp4"
+audiosize:  48836205
+videosize:  560477398
+categories: podcast
+---
+The esteemed weblordpepe, creator of Pepes World, joins us this week to discuss the latest in information security and bus related news
