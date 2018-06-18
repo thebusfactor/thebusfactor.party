@@ -111,19 +111,10 @@ cd -
 
 source $(dirname ${0})/patreon-cookie.sh
 
-echo "sleeping for an hour in 10 min chunks"
+echo "sleeping for 5 minutes"
 date
-sleep 10
+sleep 5m
 date
-sleep 10
-date
-sleep 10
-date
-sleep 10
-date
-sleep 10
-date
-sleep 10
 CSRFJSON=$(curl 'https://www.patreon.com/REST/auth/CSRFTicket' -H 'cookie: '"${COOKIE}" --compressed)
 CSRF=$(echo "${CSRFJSON}" | ${JQ} .token | tr -d '"')
 
