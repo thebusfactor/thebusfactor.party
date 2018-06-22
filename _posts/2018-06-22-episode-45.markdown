@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Five"
+date:       2018-06-22 17:00:00 +1300
+youtubeid:  "XsDley6K8zs"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-06-22-TBF-45.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-06-22-TBF-45.mp4"
+audiosize:  31463661
+videosize:  360856979
+categories: podcast
+---
+We have Dave this week with a quick run through of the news. Someone was hit on Manners St (before the show). We finished in 30 minutes this week, let us know if you like the faster format.
