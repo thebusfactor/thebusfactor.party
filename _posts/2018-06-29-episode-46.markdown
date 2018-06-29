@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Six"
+date:       2018-06-29 17:00:00 +1300
+youtubeid:  "2sYrV8Zsxrg"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-06-29-TBF-46.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-06-29-TBF-46.mp4"
+audiosize:  60425709
+videosize:  693214555
+categories: podcast
+---
+Michael joins us again, talking about ticket master, the new bus system, and who knows what else!
