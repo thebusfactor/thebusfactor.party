@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Seven"
+date:       2018-07-20 17:00:00 +1300
+youtubeid:  "Y2rfP5r9hiQ"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-07-20-TBF-47.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-07-20-TBF-47.mp4"
+audiosize:  67638381
+videosize:  775929079
+categories: podcast
+---
+For our one year aniversary, hear about the Wellington Buspocolypse! The last episode that Hugh's away from, featuring ss23 and Michael.
