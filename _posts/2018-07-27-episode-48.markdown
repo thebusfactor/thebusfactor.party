@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Eight"
+date:       2018-07-27 17:00:00 +1300
+youtubeid:  "XIwv1d6dATc"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-07-27-TBF-48.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-07-27-TBF-48.mp4"
+audiosize:  63725037
+videosize:  731204528
+categories: podcast
+---
+Hugh is back, and it's the first aniversary of The Bus Factor!
