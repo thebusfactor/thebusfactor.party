@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Forty-Nine"
+date:       2018-08-03 17:00:00 +1300
+youtubeid:  "ZCxtiuZUe2E"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-08-03-TBF-49.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-08-03-TBF-49.mp4"
+audiosize:  62738157
+videosize:  719847618
+categories: podcast
+---
+The Bus Factor splashed out and got a brand new location! We've got a new set of lights, and a new camera setup! ALso, a lot of buses have killed people lately.
