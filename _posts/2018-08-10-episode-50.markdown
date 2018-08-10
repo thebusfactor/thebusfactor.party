@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty"
+date:       2018-08-10 17:00:00 +1300
+youtubeid:  "f9lKBrhy6LQ"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-08-10-TBF-50.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-08-10-TBF-50.mp4"
+audiosize:  61601517
+videosize:  706667300
+categories: podcast
+---
+Hugh is away with a rash, but we have Dave (@nzkarit) here to talk about the happenings at Hacker Summer Camp, and the latest Buspocolypse news.
