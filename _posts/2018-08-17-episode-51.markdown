@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-One"
+date:       2018-08-17 17:00:00 +1300
+youtubeid:  "IATzqhKmoG0"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-08-17-TBF-51.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-08-17-TBF-51.mp4"
+audiosize:  64149741
+videosize:  736032120
+categories: podcast
+---
+Description goes here
