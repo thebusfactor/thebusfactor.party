@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Two"
+date:       2018-08-24 17:00:00 +1300
+youtubeid:  "MKLgITO5shM"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-08-24-TBF-52.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-08-24-TBF-52.mp4"
+audiosize:  62777709
+videosize:  720288889
+categories: podcast
+---
+We read the descriptions this week
