@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Three"
+date:       2018-08-31 17:00:00 +1300
+youtubeid:  "pVVfVg75IJ0"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-08-31-TBF-53.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-08-31-TBF-53.mp4"
+audiosize:  61132653
+videosize:  701273537
+categories: podcast
+---
+Skooch first day on bus factor, and last day at work
