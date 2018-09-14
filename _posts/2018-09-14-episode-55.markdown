@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Five"
+date:       2018-09-14 17:00:00 +1300
+youtubeid:  "fudQXxLk8jg"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-09-14-TBF-55.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-09-14-TBF-55.mp4"
+audiosize:  56103789
+videosize:  643537871
+categories: podcast
+---
+We talk about EXPORT grade crypto, lots of complaints, and some sink holes. Special guest of @whileydave
