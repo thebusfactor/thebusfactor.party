@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-three"
+date:       2018-09-07 17:00:00 +1300
+youtubeid:  "G4s_vybl5fg"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-09-07-TBF-53_.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-09-07-TBF-53_.mp4"
+audiosize:  60537069
+videosize:  694561365
+categories: podcast
+---
+This week, more ledge, MOAR LEDGE. But also security news.
