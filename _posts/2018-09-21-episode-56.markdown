@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Six"
+date:       2018-09-21 17:00:00 +1300
+youtubeid:  "zr4SxuaRQU4"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-09-21-TBF-56.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-09-21-TBF-56.mp4"
+audiosize:  60614637
+videosize:  695441591
+categories: podcast
+---
+Hughs away, stephen and dave take over, half numbers everywhere
