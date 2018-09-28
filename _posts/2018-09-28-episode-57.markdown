@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Seven"
+date:       2018-09-28 17:00:00 +1300
+youtubeid:  "KTf4Uyl8v0s"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-09-28-TBF-57.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-09-28-TBF-57.mp4"
+audiosize:  62856429
+videosize:  721008660
+categories: podcast
+---
+Bus strikes, linux privesc, yubikey, and more
