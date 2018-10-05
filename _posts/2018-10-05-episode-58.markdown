@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Eight"
+date:       2018-10-05 17:00:00 +1300
+youtubeid:  "gPSGA4jIYA0"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-10-05-TBF-58.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-10-05-TBF-58.mp4"
+audiosize:  59823213
+videosize:  686427958
+categories: podcast
+---
+Project 11 demo fail, more next week. Oh and also, some news, supermicro???
