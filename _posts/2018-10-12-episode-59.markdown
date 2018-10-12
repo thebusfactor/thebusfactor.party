@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Fifty-Nine"
+date:       2018-10-12 17:00:00 +1300
+youtubeid:  "Q820mOf9dHo"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-10-12-TBF-59.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-10-12-TBF-59.mp4"
+audiosize:  66943725
+videosize:  768052975
+categories: podcast
+---
+Weatherproofing in place, battling against the AI bot (it lost, we won), some news, nothing exciting
