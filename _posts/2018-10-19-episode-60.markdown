@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty"
+date:       2018-10-19 17:00:00 +1300
+youtubeid:  "Ty-DMeQ0qJU"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-10-19-TBF-60.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-10-19-TBF-60.mp4"
+audiosize:  60389997
+videosize:  692730373
+categories: podcast
+---
+Project 11 students join us. We talk about how our AI works. News was libssh, nginx, AND A KITTEN GETTING THROWN AT A BUS. WHO DOES THAT???
