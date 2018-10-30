@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-One"
+date:       2018-10-26 17:00:00 +1300
+youtubeid:  "FNbgCpXOC5A"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-10-26-TBF-61.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-10-26-TBF-61.mp4"
+audiosize:  37617645
+videosize:  431322684
+categories: podcast
+---
+Down at ChCon 2018, not the best view of busses, but come check out the news
