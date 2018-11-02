@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Two"
+date:       2018-11-02 17:00:00 +1300
+youtubeid:  "W2YZhvbkPTY"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-11-02-TBF-62.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-11-02-TBF-62.mp4"
+audiosize:  63133677
+videosize:  724080609
+categories: podcast
+---
+Return of the bugs from the 90s and chcon at chcon
