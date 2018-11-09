@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Three"
+date:       2018-11-09 17:00:00 +1300
+youtubeid:  "X9wajzaoXN8"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-11-09-TBF-63.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-11-09-TBF-63.mp4"
+audiosize:  62444781
+videosize:  716569652
+categories: podcast
+---
+Triple. Tourist. Pedo. Brawl.
