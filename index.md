@@ -11,6 +11,11 @@ layout: default
 
 <hr>
 
+<h1>Social contacts</h1>
+<p>We are also on twitter at <a href="https://twitter.com/thebusfactor">@thebusfactor</a>. You can view old videos below, or on youtube at <a href="https://www.youtube.com/channel/UCLJTj-fbNOGlWMAHpWQqHEQ">https://www.youtube.com/channel/UCLJTj-fbNOGlWMAHpWQqHEQ</a>.</p>
+<p>We are also on patreon if you would wish to support us. Visit our page at <a href="https://www.patreon.com/thebusfactor">https://www.patreon.com/thebusfactor</a></p>
+ 
+
 <h1>Previous Episodes</h1>
 
 <ul class="posts">
