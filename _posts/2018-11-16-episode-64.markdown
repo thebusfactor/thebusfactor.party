@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Four"
+date:       2018-11-16 17:00:00 +1300
+youtubeid:  "OQgHfI0r5nU"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-11-16-TBF-64.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-11-16-TBF-64.mp4"
+audiosize:  60423789
+videosize:  693110621
+categories: podcast
+---
+Kiwicon 2038AD special, guest starring @untitled_sec
