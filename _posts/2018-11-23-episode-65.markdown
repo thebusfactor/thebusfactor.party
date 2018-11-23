@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Five"
+date:       2018-11-23 17:00:00 +1300
+youtubeid:  "_iA5ibal2zo"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-11-23-TBF-65.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-11-23-TBF-65.mp4"
+audiosize:  62163309
+videosize:  713264722
+categories: podcast
+---
+With a bucket load of news, we tackle the buses at 4:20. Johnmilkspill provides riveting commentary along side our regular hosts
