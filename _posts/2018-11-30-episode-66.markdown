@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Six"
+date:       2018-11-30 17:00:00 +1300
+youtubeid:  "0hM7uXQnRE4"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-11-30-TBF-66.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-11-30-TBF-66.mp4"
+audiosize:  47803080
+videosize:  548220080
+categories: podcast
+---
+Finally perfected the audio setup, talked some news
