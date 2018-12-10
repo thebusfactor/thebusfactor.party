@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Seven"
+date:       2018-12-07 17:00:00 +1300
+youtubeid:  "_5Gcri5JRHc"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-12-07-TBF-67.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-12-07-TBF-67.mp4"
+audiosize:  62638124
+videosize:  718694531
+categories: podcast
+---
+At a new location, but buses still run red lights
