@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Eight"
+date:       2018-12-14 17:00:00 +1300
+youtubeid:  "sBhmtnPBSJ0"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-12-14-TBF-68.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-12-14-TBF-68.mp4"
+audiosize:  30167710
+videosize:  346059551
+categories: podcast
+---
+ss23 away sick, guest star chris steps in. QUALITY VIDEO AND NEW OUTRO SONG
