@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Sixty-Nine"
+date:       2018-12-21 17:00:00 +1300
+youtubeid:  "_i7VHfM-8tY"
+audiodl:    "https://downloads.thebusfactor.party/2018/2018-12-21-TBF-69.mp3"
+videodl:    "https://downloads.thebusfactor.party/2018/2018-12-21-TBF-69.mp4"
+audiosize:  57747165
+videosize:  752782167
+categories: podcast
+---
+Whistling stripper bomb, also a rant about the AA bill
