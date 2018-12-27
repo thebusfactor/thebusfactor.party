@@ -9,8 +9,10 @@ function tweet {
   ffmpeg -i ~/busfactor/links/true/to-report/"$TYPE"/$(basename $FILE) -t 2 -ss 00:4 ~/busfactor/gifs/$(basename ${FILE/.avi/})" - $TYPE".gif
 
   echo "Updating twitter"
-  t update -f ~/busfactor/gifs/$(basename ${FILE/.avi/})" - $TYPE".gif "$DATE - $TYPE"
+  t update -f ~/busfactor/gifs/$(basename ${FILE/.avi/})" - $TYPE".gif "$DATE - $TYPE #redlightrunner #${TYPE// /}"
 }
+
+mkdir -p busfactor/links/true/to-report/{Dangerous\ behaviours\ with\ high\ risk\ of\ injury,Entering\ intersection\ on\ red\ light,Exit\ intersection\ on\ red\ light,Inside\ intersection\ on\ red\ light,Blocking\ intersection\ on\ red\ light}
 
 for DEBUG in $1/debug-*.avi; do
   while true; do
@@ -20,11 +22,11 @@ for DEBUG in $1/debug-*.avi; do
     mpv $DEBUG
     while true; do
 #      echo "r) replay, f) false, t) true, d) delete, s) skip, R) report"
-      echo "r) replay, f) false, t) true, d) delete, s) sort later, 1) dangerous, 2) entering, 3) inside, 4) exiting"
+      echo "r) replay, f) false, t) true, d) delete, s) sort later, 1) dangerous, 2) entering, 3) inside, 4) exiting, 5) blocking"
       read -n 1 c
       case $c in
 #	R) while true; do
-#	  echo "r) replay, s) sort later, 1) dangerous, 2) entering, 3) inside, 4) exiting"
+#	  echo "r) replay, s) sort later, 1) dangerous, 2) entering, 3) inside, 4) exiting, 5) blocking"
 #	  read -n 1 c
 #	  case $c in
 	1) export TYPE="Dangerous behaviours with high risk of injury";
@@ -34,6 +36,8 @@ for DEBUG in $1/debug-*.avi; do
 	3) export TYPE="Inside intersection on red light";
 	  mv $I ~/busfactor/links/true/to-report/"$TYPE"/; tweet $I "$TYPE" & ;;
 	4) export TYPE="Exit intersection on red light";
+	  mv $I ~/busfactor/links/true/to-report/"$TYPE"/; tweet $I "$TYPE" & ;;
+	5) export TYPE="Blocking intersection on red light";
 	  mv $I ~/busfactor/links/true/to-report/"$TYPE"/; tweet $I "$TYPE" & ;;
 #	    r) replay=1; break;;
 	s) mv $I ~/busfactor/links/true/to-report/;;
