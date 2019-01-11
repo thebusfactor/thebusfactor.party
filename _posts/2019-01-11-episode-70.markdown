@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy"
+date:       2019-01-11 17:00:00 +1300
+youtubeid:  "t9upHXGvQwQ"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-01-11-TBF-70.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-01-11-TBF-70.mp4"
+audiosize:  62003244
+videosize:  1534493059
+categories: podcast
+---
+What happens when the D is too big and it overflows
