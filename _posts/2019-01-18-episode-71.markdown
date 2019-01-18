@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-One"
+date:       2019-01-18 17:00:00 +1300
+youtubeid:  "2r6TahWkIok"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-01-18-TBF-71.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-01-18-TBF-71.mp4"
+audiosize:  56876556
+videosize:  1407464723
+categories: podcast
+---
+Drupal tar phar fear and other scary topics
