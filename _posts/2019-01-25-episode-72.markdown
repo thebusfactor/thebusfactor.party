@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Two"
+date:       2019-01-25 17:00:00 +1300
+youtubeid:  "b6tO1zHEkak"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-01-25-TBF-72.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-01-25-TBF-72.mp4"
+audiosize:  63938395
+videosize:  1582371889
+categories: podcast
+---
+ZOMBIES
