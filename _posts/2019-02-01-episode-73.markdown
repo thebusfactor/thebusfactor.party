@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Three"
+date:       2019-02-01 17:00:00 +1300
+youtubeid:  "Axfj9TUmkHM"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-02-01-TBF-73.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-02-01-TBF-73.mp4"
+audiosize:  65179733
+videosize:  1613460885
+categories: podcast
+---
+Face Face Spear Chucker. VTNZ have PHP pear hacks
