@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Four"
+date:       2019-02-22 17:00:00 +1300
+youtubeid:  "lB2t_1a6msU"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-02-22-TBF-74.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-02-22-TBF-74.mp4"
+audiosize:  62615136
+videosize:  1550144798
+categories: podcast
+---
+First show back after a break, check out our huge list of bus news and some tech news sprinkled in
