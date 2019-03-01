@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Five"
+date:       2019-03-01 17:00:00 +1300
+youtubeid:  "9skQxratn80"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-03-01-TBF-75.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-03-01-TBF-75.mp4"
+audiosize:  62712102
+videosize:  1552360778
+categories: podcast
+---
+Not much tech news, but if your in the news for NZ politics...
