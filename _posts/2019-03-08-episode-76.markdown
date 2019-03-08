@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Six"
+date:       2019-03-08 17:00:00 +1300
+youtubeid:  "Cww9oAv6QzU"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-03-08-TBF-76.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-03-08-TBF-76.mp4"
+audiosize:  42925915
+videosize:  1062493998
+categories: podcast
+---
+Cows, cows, and no more cows
