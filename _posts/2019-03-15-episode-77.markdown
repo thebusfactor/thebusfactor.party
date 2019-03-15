@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Seven"
+date:       2019-03-15 17:00:00 +1300
+youtubeid:  "bDp3-Y1ixhk"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-03-15-TBF-77.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-03-15-TBF-77.mp4"
+audiosize:  62959116
+videosize:  1557302069
+categories: podcast
+---
+Special guest of the reporter on the street
