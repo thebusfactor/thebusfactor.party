@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Eight"
+date:       2019-03-22 17:00:00 +1300
+youtubeid:  "XiDLWb09JKs"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-03-22-TBF-78.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-03-22-TBF-78.mp4"
+audiosize:  59744174
+videosize:  1478420362
+categories: podcast
+---
+Stephens back
