@@ -16,6 +16,9 @@ layout: default
 <p>We are also on patreon if you would wish to support us. Visit our page at <a href="https://www.patreon.com/thebusfactor">https://www.patreon.com/thebusfactor</a></p>
  
 
+<h1>Footage from THE MACHINE</h1>
+<p>So we have an AI tool (<a href="https://github.com/thebusfactor/p11">github:thebusfactor/p11</a>) that detects red light runners. These are reported to Metlink. You can find all the incidents reported to Metlink (along with description of the more serious cases) <a href="https://drive.google.com/drive/folders/1wD829tbSxi1MERtC7SqQsJbyMWizpyfY?usp=sharing">here</a></p>
+
 <h1>Previous Episodes</h1>
 
 <ul class="posts">
