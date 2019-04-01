@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Seventy-Nine"
+date:       2019-03-29 17:00:00 +1300
+youtubeid:  "7kE6gfAUuXg"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-03-29-TBF-79.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-03-29-TBF-79.mp4"
+audiosize:  48666166
+videosize:  1204393776
+categories: podcast
+---
+Hugh's away so the bus counts have fractions again. You're gonna love it
