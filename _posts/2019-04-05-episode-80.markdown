@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty"
+date:       2019-04-05 17:00:00 +1300
+youtubeid:  "JhmKdIzUojE"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-04-05-TBF-80.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-04-05-TBF-80.mp4"
+audiosize:  62041696
+videosize:  1535221689
+categories: podcast
+---
+Wordpress Google Apache Bus
