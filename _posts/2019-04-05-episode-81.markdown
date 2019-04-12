@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-One"
+date:       2019-04-05 17:00:00 +1300
+youtubeid:  "oEviqmKVDgU"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-04-05-TBF-81.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-04-05-TBF-81.mp4"
+audiosize:  62025395
+videosize:  1535201524
+categories: podcast
+---
+Watch 1,400 (1% red light runners) buses go through this intersection while we talk about tech news
