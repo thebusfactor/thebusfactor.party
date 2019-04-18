@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Two"
+date:       2019-04-18 17:00:00 +1300
+youtubeid:  "U4PwTizuwsw"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-04-18-TBF-82.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-04-18-TBF-82.mp4"
+audiosize:  57882166
+videosize:  1432220764
+categories: podcast
+---
+As the time of pagan festivals draws near, the bus factor occurs at an earlier time
