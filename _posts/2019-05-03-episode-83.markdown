@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Three"
+date:       2019-05-03 17:00:00 +1300
+youtubeid:  "oFUsMwQV4j4"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-05-03-TBF-83.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-05-03-TBF-83.mp4"
+audiosize:  48940765
+videosize:  1210481686
+categories: podcast
+---
+Stephen is currently playing the ukelele and will not give me a good description
