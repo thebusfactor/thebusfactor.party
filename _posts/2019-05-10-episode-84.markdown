@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Four"
+date:       2019-05-10 17:00:00 +1300
+youtubeid:  "pKbEYTxqSI0"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-05-10-TBF-84.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-05-10-TBF-84.mp4"
+audiosize:  42051126
+videosize:  1039940942
+categories: podcast
+---
+No TeCh NeWs, BuT BuSeS StIlL rAn ReDs
