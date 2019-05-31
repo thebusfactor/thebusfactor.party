@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Six"
+date:       2019-05-31 17:00:00 +1300
+youtubeid:  "2oc1Fh3nBj0"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-05-31-TBF-86.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-05-31-TBF-86.mp4"
+audiosize:  59714081
+videosize:  1477416486
+categories: podcast
+---
+Auckland driver sentenced to death by sterling silver over fortiguard hack on treasury
