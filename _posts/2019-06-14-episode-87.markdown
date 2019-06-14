@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Seven"
+date:       2019-06-14 17:00:00 +1300
+youtubeid:  "58N-wuahE7w"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-06-14-TBF-87.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-06-14-TBF-87.mp4"
+audiosize:  51713088
+videosize:  1279748774
+categories: podcast
+---
+A wild week for bugs, a standard week for buses
