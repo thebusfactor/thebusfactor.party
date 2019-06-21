@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Eight"
+date:       2019-06-21 17:00:00 +1300
+youtubeid:  "I66RkTMb80o"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-06-21-TBF-88.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-06-21-TBF-88.mp4"
+audiosize:  58583084
+videosize:  1450111877
+categories: podcast
+---
+Fox attacks electronic house hold shelter in 0 days, got a sack and died. Should have used Samsung antivirus
