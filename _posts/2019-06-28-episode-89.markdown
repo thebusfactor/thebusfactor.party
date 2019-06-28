@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Eighty-Nine"
+date:       2019-06-28 17:00:00 +1300
+youtubeid:  "jLQnN_5Kkio"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-06-28-TBF-89.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-06-28-TBF-89.mp4"
+audiosize:  57358045
+videosize:  1419270988
+categories: podcast
+---
+An explosive report given to you here first on the bus factor
