@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety"
+date:       2019-07-05 17:00:00 +1300
+youtubeid:  "M5xWrscz3FI"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-07-05-TBF-90.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-07-05-TBF-90.mp4"
+audiosize:  62147022
+videosize:  1538524003
+categories: podcast
+---
+With more bus news than ever, 2 pedestrians hit, trains derailed, and youtube banning hacking
