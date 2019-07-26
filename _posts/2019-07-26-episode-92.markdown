@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Two"
+date:       2019-07-26 17:00:00 +1300
+youtubeid:  "sfgWgfqMLKI"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-07-26-TBF-92.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-07-26-TBF-92.mp4"
+audiosize:  53135404
+videosize:  1315129641
+categories: podcast
+---
+Trains, buses, planes. They all suck
