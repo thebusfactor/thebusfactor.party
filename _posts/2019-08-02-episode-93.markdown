@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Three"
+date:       2019-08-02 17:00:00 +1300
+youtubeid:  "f4YnYzfOZYM"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-08-02-TBF-93.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-08-02-TBF-93.mp4"
+audiosize:  61135978
+videosize:  1512919640
+categories: podcast
+---
+Donde esta la meetup de espanol
