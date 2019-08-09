@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Four"
+date:       2019-08-09 17:00:00 +1300
+youtubeid:  "ISN1MyFReu0"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-08-09-TBF-94.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-08-09-TBF-94.mp4"
+audiosize:  64004432
+videosize:  1584191431
+categories: podcast
+---
+Apple good
