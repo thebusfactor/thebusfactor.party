@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Five"
+date:       2019-08-16 17:00:00 +1300
+youtubeid:  "w47Dn0fBvno"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-08-16-TBF-95.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-08-16-TBF-95.mp4"
+audiosize:  64445379
+videosize:  1594717059
+categories: podcast
+---
+We have decided that a shower with a chair and a waterproof laptop will make us good hackers, thanks taviso
