@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Seven"
+date:       2019-08-30 17:00:00 +1300
+youtubeid:  "aMgf3gDmXXw"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-08-30-TBF-97.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-08-30-TBF-97.mp4"
+audiosize:  71887978
+videosize:  1779320327
+categories: podcast
+---
+Incapsula had a timecube and a rifle at a north carolina bus stop
