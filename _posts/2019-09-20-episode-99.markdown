@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode Ninety-Nine"
+date:       2019-09-20 17:00:00 +1300
+youtubeid:  "S-Zmdv2-bPU"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-09-20-TBF-99.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-09-20-TBF-99.mp4"
+audiosize:  66268099
+videosize:  1639725854
+categories: podcast
+---
+The most political episode of TBF yet, includes a pronounciation guide for mayoral. Join us next time for our #100 episode
