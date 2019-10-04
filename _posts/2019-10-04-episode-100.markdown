@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred"
+date:       2019-10-04 17:00:00 +1300
+youtubeid:  "7XpbP0X4Vf0"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-10-04-TBF-100.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-10-04-TBF-100.mp4"
+audiosize:  65987230
+videosize:  1633378217
+categories: podcast
+---
+ONE HUNDREDTH EPISODE
