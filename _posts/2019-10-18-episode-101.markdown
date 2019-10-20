@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And One"
+date:       2019-10-18 17:00:00 +1300
+youtubeid:  "I0pMH9qyVZI"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-10-18-TBF-101.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-10-18-TBF-101.mp4"
+audiosize:  31923557
+videosize:  789667597
+categories: podcast
+---
+KawaiiFactor - Live from Kawaiicon 2019
