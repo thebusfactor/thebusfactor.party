@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And Two"
+date:       2019-10-25 17:00:00 +1300
+youtubeid:  "wQbzea1rHVY"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-10-25-TBF-102.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-10-25-TBF-102.mp4"
+audiosize:  28742052
+videosize:  711053866
+categories: podcast
+---
+Half-arsed show for half the hosts
