@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And Three"
+date:       2019-11-08 17:00:00 +1300
+youtubeid:  "LAwwmqJr8So"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-11-08-TBF-103.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-11-08-TBF-103.mp4"
+audiosize:  39249128
+videosize:  971129868
+categories: podcast
+---
+The Spook Factor - Halloween Special
