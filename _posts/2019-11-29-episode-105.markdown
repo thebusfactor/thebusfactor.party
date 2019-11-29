@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And Five"
+date:       2019-11-29 17:00:00 +1300
+youtubeid:  "_eH8IFuHA_k"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-11-29-TBF-105.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-11-29-TBF-105.mp4"
+audiosize:  69365595
+videosize:  1716697019
+categories: podcast
+---
+One hour of news, 10 minutes of trying to leave
