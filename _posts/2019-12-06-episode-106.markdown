@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And Six"
+date:       2019-12-06 17:00:00 +1300
+youtubeid:  "3-PH69SZiB0"
+audiodl:    "https://downloads.thebusfactor.party/2019/2019-12-06-TBF-106.mp3"
+videodl:    "https://downloads.thebusfactor.party/2019/2019-12-06-TBF-106.mp4"
+audiosize:  39830509
+videosize:  985701449
+categories: podcast
+---
+First show of december
