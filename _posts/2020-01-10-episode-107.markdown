@@ -1,0 +1,12 @@
+---
+layout:     podcast
+title:      "Episode One Hundred And Seven"
+date:       2020-01-10 17:00:00 +1300
+youtubeid:  "EE8zlKNty-0"
+audiodl:    "https://downloads.thebusfactor.party/2020/2020-01-10-TBF-107.mp3"
+videodl:    "https://downloads.thebusfactor.party/2020/2020-01-10-TBF-107.mp4"
+audiosize:  49548896
+videosize:  1225902776
+categories: podcast
+---
+The last show for a while
